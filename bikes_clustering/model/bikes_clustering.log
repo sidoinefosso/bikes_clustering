@@ -1,0 +1,11 @@
+11/26/2019 00:01:25 (bikes_clustering) INFO: Daily Clustering Bikes by location generated for  2019-11-26 at 1574722885.7947006 s
+11/26/2019 00:14:33 (bikes_clustering) INFO: Daily Output file /home/sidoine/OneDrive/projet/bikes_clustering/datasets/output/clustering_assignment_by_location-2019-11-26.json generated at 1574723673.8078241 s
+11/26/2019 00:14:39 (bikes_clustering) INFO: Daily Output file /home/sidoine/OneDrive/projet/bikes_clustering/datasets/output/clusters_groups_count-2019-11-26.json generated at 1574723679.0764172 s
+11/26/2019 00:14:41 (bikes_clustering) INFO: Daily Clustering Bikes by location generated on the 2019-11-26 at 1574723681.1528375 s
+11/26/2019 00:51:37 (bikes_clustering) INFO: Old Daily Clustering Bikes by location Model has been archived on the 2019-11-26 00:51:37.992580
+11/26/2019 00:51:38 (bikes_clustering) INFO: New Daily Clustering Bikes by location Model has been trained on the 2019-11-26 00:51:38.320471
+11/26/2019 00:52:34 (bikes_clustering) INFO: Daily Clustering Bikes by location Started on the 2019-11-26 00:52:34.415954 
+11/26/2019 00:54:51 (bikes_clustering) INFO: Daily Clustering Bikes by location Started on the 2019-11-26 00:54:51.638552 
+11/26/2019 00:54:52 (bikes_clustering) INFO: Daily Output file /home/sidoine/OneDrive/projet/bikes_clustering/datasets/output/clustering_assignment_by_location-2019-11-26.json generated at 1574726092.6296391 s
+11/26/2019 00:54:58 (bikes_clustering) INFO: Daily Output file /home/sidoine/OneDrive/projet/bikes_clustering/datasets/output/clusters_groups_count-2019-11-26.json generated at 1574726098.8316967 s
+11/26/2019 00:54:58 (bikes_clustering) INFO: Daily Clustering Bikes by location generated on the 2019-11-26 at 1574726098.832346 s

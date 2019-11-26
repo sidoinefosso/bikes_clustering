@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 122,
+    "name": "122 - LOWER RIVER TCE / ELLIS ST",
+    "address": "Lower River Tce / Ellis St",
+    "latitude": -27.482279,
+    "longitude": 153.028723
+  },
+  {
+    "id": 91,
+    "name": "91 - MAIN ST / DARRAGH ST",
+    "address": "Main St / Darragh St",
+    "latitude": -27.47059,
+    "longitude": 153.036046
+  },
+  {
+    "id": 88,
+    "name": "88 - SYDNEY ST FERRY TERMINAL / PARK",
+    "address": null,
+    "latitude": null,
+    "longitude": 153.042728
+  },
+  {
+    "id": 75,
+    "name": "75 - BROWNE ST / JAMES ST",
+    "address": "Browne St / James St",
+    "latitude": -27.461881,
+    "longitude": 153.046986
+  },
+  {
+    "id": 99.0,
+    "name": "98 - KURILPA POINT / MONTAGUE RD",
+    "address": "Kurilpa Point / Montague Rd",
+    "latitude": -27.469658,
+    "longitude": 153.016696
+  },
+  {
+    "id": 109,
+    "name": "109 - MONTAGUE RD / SKINNER ST",
+    "address": "Montague Rd / Skinner St",
+    "latitude": -27.48172,
+    "longitude": 153.00436
+  },
+  {
+    "id": 149,
+    "name": null,
+    "address": "Macquarie St / Guyatt Park",
+    "latitude": -27.493626,
+    "longitude": 153.001482
+  },
+  {
+    "id": 139,
+    "name": "139 - BI-CENTENNIAL BIKE WAY / LANG PDE",
+    "address": "Bi-centennial Bike Way / Lang Pde",
+    "latitude": -27.476076,
+    "longitude": 153.002459
+  },
+  {
+    "id": 24,
+    "name": "24 - SIR WILLIAM MCGREGOR DR / SIR FRED SCHONNELL",
+    "address": "Sir William McGregor Dr / Sir Fred Schonnell",
+    "latitude": -27.493963,
+    "longitude": 153.011938
+  },
+  {
+    "id": 117,
+    "name": "117 - VULTURE ST / TRIBUNE ST",
+    "address": "Vulture St / Tribune St",
+    "latitude": -27.482197,
+    "longitude": 153.020894
+  },
+  {
+    "id": 73,
+    "name": "73 - LAMINGTON ST / REFINERY PDE",
+    "address": "Lamington St / Refinery Pde",
+    "latitude": -27.465226,
+    "longitude": 153.050864
+  },
+  {
+    "id": 1101,
+    "name": "1101 - KING GEORGE SQUARE 2",
+    "address": "King George Square 2",
+    "latitude": -27.468447,
+    "longitude": 153.024662
+  },
+  {
+    "id": 23,
+    "name": "23 - MARY STREET / GEORGE STREET",
+    "address": "Mary St / George St",
+    "latitude": -27.473021,
+    "longitude": 153.025988
+  },
+  {
+    "id": 54,
+    "name": "54 - MCLACHLAN ST / WINN ST",
+    "address": "McLachlan St / Winn St",
+    "latitude": -27.457825,
+    "longitude": 153.036866
+  },
+  {
+    "id": 93,
+    "name": "93 - GREY ST / QCA",
+    "address": "Grey St / QCA",
+    "latitude": -27.48148,
+    "longitude": 153.02368
+  },
+  {
+    "id": 31,
+    "name": "31 - ROMA ST / TURBOT ST",
+    "address": "Roma St / Turbot St",
+    "latitude": -27.467464,
+    "longitude": 153.022094
+  },
+  {
+    "id": 97,
+    "name": "97 - THYNNE RD / COLLEGE RD",
+    "address": "Thynne Rd / College Rd",
+    "latitude": -27.499963,
+    "longitude": 153.017633
+  },
+  {
+    "id": 147,
+    "name": "147 - SANDFORD ST / BRISBANE ST",
+    "address": "Sandford St / Brisbane St",
+    "latitude": -27.490776,
+    "longitude": 152.994747,
+    "position": "UK"
+  },
+  {
+    "id": 77,
+    "name": "77 - JAMES ST / HARCOURT ST",
+    "address": "James St / Harcourt St",
+    "latitude": -27.458199,
+    "longitude": 153.041688
+  },
+  {
+    "id": 119,
+    "name": "119 - SIDON ST / LITTLE STANLEY ST",
+    "address": "Sidon St / Little Stanley St",
+    "latitude": -27.481808,
+    "longitude": 153.025477
+  },
+  {
+    "id": 67,
+    "name": "67 - COMMERCIAL RD / TENERIFFE FERRY TERMINAL",
+    "address": "Commercial Rd / Teneriffe Ferry Terminal",
+    "latitude": -27.452027,
+    "longitude": 153.04911
+  },
+  {
+    "id": 39,
+    "name": "39 - TURBOT ST / WICKHAM TCE",
+    "address": "Turbot St / Wickham Tce",
+    "latitude": -27.464628,
+    "longitude": 153.026863
+  },
+  {
+    "id": 55,
+    "name": "55 - ALDEN ST / WICKHAM ST",
+    "address": "Alden St / Wickham St",
+    "latitude": -27.456085,
+    "longitude": 153.03453
+  },
+  {
+    "id": 35,
+    "name": "35 - ROMA STREET / MAKERSTON STREET",
+    "address": "Roma St / Makerston St",
+    "latitude": -27.46637,
+    "longitude": 153.018506
+  },
+  {
+    "id": 150,
+    "name": "150 - MACQUARIE ST / MUNRO ST",
+    "address": "Macquarie St / Munro St",
+    "latitude": -27.492876,
+    "longitude": 153.006071
+  },
+  {
+    "id": 80,
+    "name": "80 - BARKER ST / BRUNSWICK ST",
+    "address": "Barker St / Brunswick St",
+    "latitude": -27.464681,
+    "longitude": 153.042561
+  },
+  {
+    "id": 78,
+    "name": "78 - MALT ST / BRUNSWICK ST",
+    "address": "Malt St / Brunswick St",
+    "latitude": -27.461041,
+    "longitude": 153.037902
+  },
+  {
+    "id": 65,
+    "name": "65 - CHERMSIDE ST / COMMERCIAL RD",
+    "address": "Chermside St / Commercial Rd",
+    "latitude": -27.454482,
+    "longitude": 153.046802
+  },
+  {
+    "id": 44,
+    "name": "44 - QUEEN STREET / ADELAIDE STREET",
+    "address": "Queen St / Adelaide St",
+    "latitude": -27.463405,
+    "longitude": 153.031142
+  },
+  {
+    "id": 56,
+    "name": "56 - CONSTANCE ST / ST PAULS TCE",
+    "address": "Constance St / St Pauls Tce",
+    "latitude": -27.453717,
+    "longitude": 153.034042
+  },
+  {
+    "id": 50,
+    "name": "50 - GIPPS ST / WICKHAM ST",
+    "address": "Gipps St / Wickham St",
+    "latitude": -27.458641,
+    "longitude": 153.03208
+  },
+  {
+    "id": 95,
+    "name": "95 - STANLEY ST / MELBOURNE ST",
+    "address": "Stanley St / Melbourne St",
+    "latitude": -27.475039,
+    "longitude": 153.020323
+  },
+  {
+    "id": 133,
+    "name": "133 - CORONATION DR / GO BETWEEN BRIDGE",
+    "address": "Coronation Dr / Go Between Bridge",
+    "latitude": -27.468839,
+    "longitude": 153.011115
+  },
+  {
+    "id": 68,
+    "name": "68 - VERNON TCE / ETHEL ST",
+    "address": "Vernon Tce / Ethel St",
+    "latitude": -27.454394,
+    "longitude": 153.049519
+  },
+  {
+    "id": 134,
+    "name": "134 - RAILWAY TCE / CRIBB ST",
+    "address": "Railway Tce / Cribb St",
+    "latitude": -27.468845,
+    "longitude": 153.007364
+  },
+  {
+    "id": 52,
+    "name": "52 - BRUNSWICK ST MALL / WICKHAM ST",
+    "address": "Brunswick St Mall / Wickham St",
+    "latitude": -27.457512,
+    "longitude": 153.033841
+  },
+  {
+    "id": 47,
+    "name": "47 - TURBOT ST / BARRY PDE",
+    "address": "Turbot St / Barry Pde",
+    "latitude": -27.46123,
+    "longitude": 153.031077
+  },
+  {
+    "id": 140,
+    "name": "140 - DUNMORE TCE / KINGSFORD ST",
+    "address": "Dunmore Tce / Kingsford St",
+    "latitude": -27.476003,
+    "longitude": 153.000676
+  },
+  {
+    "id": 16,
+    "name": "16 - MARY STREET / ALBERT STREET",
+    "address": "Mary St / Albert St",
+    "latitude": -27.472044,
+    "longitude": 153.027193
+  },
+  {
+    "id": 59,
+    "name": "59 - JAMES ST / MCLACHLAN ST",
+    "address": "James St / McLachlan St",
+    "latitude": -27.456276,
+    "longitude": 153.039196
+  },
+  {
+    "id": 18,
+    "name": "18 - LITTLE STANLEY ST / TRIBUNE ST",
+    "address": "Little Stanley St / Tribune St",
+    "latitude": -27.480385,
+    "longitude": 153.023564
+  },
+  {
+    "id": 43,
+    "name": "43 - QUEEN ST / WHARF ST",
+    "address": "Queen St / Wharf St",
+    "latitude": -27.465043,
+    "longitude": 153.030991
+  },
+  {
+    "id": 9,
+    "name": "9 - CHARLOTTE STREET / EDWARD STREET",
+    "address": "Charlotte St / Edward St",
+    "latitude": -27.469924,
+    "longitude": 153.02822
+  },
+  {
+    "id": 5,
+    "name": "5 - MARKET STREET / MARY STREET",
+    "address": "Market St / Mary St",
+    "latitude": -27.469702,
+    "longitude": 153.029828
+  },
+  {
+    "id": 4,
+    "name": "4 - CHARLOTTE STREET / EAGLE STREET",
+    "address": "Charlotte St / Eagle St",
+    "latitude": -27.468675,
+    "longitude": 153.029834
+  },
+  {
+    "id": 11,
+    "name": "11 - KING GEORGE SQUARE / ANN ST",
+    "address": "King George Square / Ann St",
+    "latitude": -27.468422,
+    "longitude": 153.024635
+  },
+  {
+    "id": 85,
+    "name": "85 - OXLADE DR / TURNER AVE",
+    "address": "Oxlade Dr / Turner Ave",
+    "latitude": -27.473304,
+    "longitude": 153.048757
+  },
+  {
+    "id": 138,
+    "name": "138 - ROY ST / LANG PDE",
+    "address": "Roy St / Lang Pde",
+    "latitude": -27.473888,
+    "longitude": 153.000599
+  },
+  {
+    "id": 143,
+    "name": "143 - REGATTA FERRY TERMINAL / SYLVAN RD",
+    "address": "Regatta Ferry Terminal / Sylvan Rd",
+    "latitude": -27.483168,
+    "longitude": 152.996419
+  },
+  {
+    "id": 72,
+    "name": "72 - LAMINGTON ST / POWERHOUSE",
+    "address": "Lamington St / Powerhouse",
+    "latitude": -27.467802,
+    "longitude": 153.053645
+  },
+  {
+    "id": 145,
+    "name": "145 - CORONATION DR / ARCHER ST",
+    "address": "Coronation Dr / Archer St",
+    "latitude": -27.485872,
+    "longitude": 152.99347
+  },
+  {
+    "id": 121,
+    "name": "121 - VULTURE ST / STANLEY ST",
+    "address": "VULTURE ST / STANLEY ST",
+    "latitude": -27.483259,
+    "longitude": 153.026946
+  },
+  {
+    "id": 40,
+    "name": "40 - ANN STREET / CREEK STREET",
+    "address": "Ann St / Creek St",
+    "latitude": -27.464986,
+    "longitude": 153.027679
+  },
+  {
+    "id": 27,
+    "name": "27 - BLAIR DR / SIR WILLIAM MACGREGOR DR",
+    "address": "Blair Dr / Sir William McGregor Dr",
+    "latitude": -27.494561,
+    "longitude": 153.016318
+  },
+  {
+    "id": 136,
+    "name": "136 - PARK RD / DOUGLAS ST",
+    "address": "Park Rd / Douglas St",
+    "latitude": -27.470987,
+    "longitude": 153.004602
+  },
+  {
+    "id": 49,
+    "name": "49 - ANN STREET / GIPPS STREET",
+    "address": "Ann St / Gipps St",
+    "latitude": -27.459833,
+    "longitude": 153.033445
+  },
+  {
+    "id": 21,
+    "name": "21 - BOTANICAL GARDENS / QUT",
+    "address": "Botanical Gardens / QUT",
+    "latitude": -27.475922,
+    "longitude": 153.0288
+  },
+  {
+    "id": 29,
+    "name": "29 - GEORGE STREET / ANN STREET",
+    "address": "George St / Ann St",
+    "latitude": -27.469075,
+    "longitude": 153.021808
+  },
+  {
+    "id": 63,
+    "name": "63 - ANN ST / MURRI WAY",
+    "address": "Ann St / Murri Way",
+    "latitude": -27.452468,
+    "longitude": 153.040565
+  },
+  {
+    "id": 26,
+    "name": "26 - NORTH QUAY / REDDACLIFF PLACE",
+    "address": "North Quay /Reddacliff Place",
+    "latitude": -27.471297,
+    "longitude": 153.02257
+  },
+  {
+    "id": 82,
+    "name": "82 - BRUNSWICK ST / MERTHYR RD",
+    "address": "Brunswick St / Merthyr Rd",
+    "latitude": -27.467498,
+    "longitude": 153.0467
+  },
+  {
+    "id": 74,
+    "name": "74 - MERTHYR RD / JAMES ST",
+    "address": "Merthyr Rd / James St",
+    "latitude": -27.463678,
+    "longitude": 153.049485
+  },
+  {
+    "id": 15,
+    "name": "15 - ALBERT STREET MALL / ELIZABETH STREET",
+    "address": "Albert St Mall / Elizabeth St",
+    "latitude": -27.47019,
+    "longitude": 153.025852
+  },
+  {
+    "id": 141,
+    "name": "141 - LAND ST / CORONATION DR",
+    "address": "Land St / Coronation Dr",
+    "latitude": -27.479453,
+    "longitude": 152.997215
+  },
+  {
+    "id": 130,
+    "name": "130 - O'CONNELL ST / LAMBERT ST",
+    "address": "O'Connell St / Lambert St",
+    "latitude": -27.474992,
+    "longitude": 153.037647
+  },
+  {
+    "id": 48,
+    "name": "48 - ANN ST / GOTHA ST",
+    "address": "Ann St / Gotha St",
+    "latitude": -27.46048,
+    "longitude": 153.032768
+  },
+  {
+    "id": 53,
+    "name": "53 - BOWEN TCE / BRADFIELD HWY",
+    "address": "Bowen Tce / Bradfield Hwy",
+    "latitude": -27.461803,
+    "longitude": 153.036021
+  },
+  {
+    "id": 125,
+    "name": "125 - ANNERLEY RD / BOGGO RD",
+    "address": "Annerley Rd / Boggo Rd",
+    "latitude": -27.494959,
+    "longitude": 153.02802
+  },
+  {
+    "id": 70,
+    "name": "70 - MACQUARIE ST / BEESTON ST",
+    "address": "Macquarie St / Beeston St",
+    "latitude": -27.459091,
+    "longitude": 153.050239
+  },
+  {
+    "id": 87,
+    "name": "87 - MERTHYR RD / REGINALD ST",
+    "address": "Merthyr Rd / Reginald St",
+    "latitude": -27.469931,
+    "longitude": 153.043525
+  },
+  {
+    "id": 12,
+    "name": "12 - ALBERT ST MALL / ADELAIDE ST",
+    "address": "Albert St Mall / Adelaide St",
+    "latitude": -27.468963,
+    "longitude": 153.02461
+  },
+  {
+    "id": 69,
+    "name": "69 - VERNON TCE / FLORENCE ST",
+    "address": "Vernon Tce / Florence St",
+    "latitude": -27.455907,
+    "longitude": 153.050013
+  },
+  {
+    "id": 113,
+    "name": "113 - EDMONDSTONE ST / VULTURE ST",
+    "address": "Edmondstone St / Vulture St",
+    "latitude": -27.480164,
+    "longitude": 153.016181
+  },
+  {
+    "id": 112,
+    "name": "112 - BANK ST / MOLLISON ST",
+    "address": "Bank St / Mollison St",
+    "latitude": -27.476724,
+    "longitude": 153.010063
+  },
+  {
+    "id": 127,
+    "name": "127 - GLADSTONE RD / ANNERLEY RD",
+    "address": "Gladstone Rd / Annerley Rd",
+    "latitude": -27.497934,
+    "longitude": 153.027333
+  },
+  {
+    "id": 110,
+    "name": "110 - JANE ST / MONTAGUE RD",
+    "address": "Jane St / Montague Rd",
+    "latitude": -27.478214,
+    "longitude": 153.006181
+  },
+  {
+    "id": 90,
+    "name": "90 - MAIN ST / ROTHERHAM ST (MAHONEY PARK)",
+    "address": "Main St / Rotherham St (Mahoney Park)",
+    "latitude": -27.469296,
+    "longitude": 153.035533
+  },
+  {
+    "id": 132,
+    "name": "132 - LITTLE CRIBB ST / BOOMERANG ST",
+    "address": "Little Cribb St / Boomerang St",
+    "latitude": -27.467971,
+    "longitude": 153.009968
+  },
+  {
+    "id": 96,
+    "name": "96 - GREY ST / MELBOURNE ST",
+    "address": "Grey St / Melbourne St",
+    "latitude": -27.474722,
+    "longitude": 153.018694
+  },
+  {
+    "id": 2,
+    "name": "2 - QUEEN ST / EAGLE ST",
+    "address": "Queen St / Eagle St",
+    "latitude": -27.466369,
+    "longitude": 153.029597
+  },
+  {
+    "id": 62,
+    "name": "62 - ANN ST / CHESTER ST",
+    "address": "Ann St / Chester St",
+    "latitude": -27.453195,
+    "longitude": 153.0401
+  },
+  {
+    "id": 123,
+    "name": "123 - CHARLOTTE ST / ALBERT ST",
+    "address": "Charlotte St / Albert St",
+    "latitude": -27.471315,
+    "longitude": 153.026627
+  },
+  {
+    "id": 103,
+    "name": "103 - VULTURE ST / THOMAS ST",
+    "address": "Vulture St / Thomas St",
+    "latitude": -27.480768,
+    "longitude": 153.011121
+  },
+  {
+    "id": 28,
+    "name": "28 - GEORGE ST / ADELAIDE ST",
+    "address": "George St / Adelaide St",
+    "latitude": -27.469902,
+    "longitude": 153.022603
+  },
+  {
+    "id": 60,
+    "name": "60 - WICKHAM STREET / BROOKES STREET",
+    "address": "Wickham St / Brookes St",
+    "latitude": -27.453127,
+    "longitude": 153.037559
+  },
+  {
+    "id": 124,
+    "name": "124 - ANNERLEY ROAD / GROVE ST",
+    "address": "Annerley Rd / Grove St",
+    "latitude": -27.491284,
+    "longitude": 153.027138
+  },
+  {
+    "id": 25,
+    "name": "25 - REDDACLIFF PL / QUEEN ST",
+    "address": "Reddacliff Pl / Queen St",
+    "latitude": -27.471332,
+    "longitude": 153.022991
+  },
+  {
+    "id": 114,
+    "name": "114 - COLCHESTER ST / ERNEST ST",
+    "address": "Colchester St / Ernest St",
+    "latitude": -27.479876,
+    "longitude": 153.021076
+  },
+  {
+    "id": 76,
+    "name": "76 - WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE",
+    "address": "WATERLOO ST (GASWORKS PARK) / NEWSTEAD TCE",
+    "latitude": -27.448074,
+    "longitude": 153.045762
+  },
+  {
+    "id": 115,
+    "name": "115 - MONTAGUE RD / BRERETON ST",
+    "address": "Montague Rd / Brereton St",
+    "latitude": -27.474227,
+    "longitude": 153.011164
+  },
+  {
+    "id": 30,
+    "name": "30 - ROMA ST / ANN ST",
+    "address": "Roma St / Ann St",
+    "latitude": -27.467963,
+    "longitude": 153.0231
+  },
+  {
+    "id": 64,
+    "name": "64 - SKYRING TCE / CUNNINGHAM ST",
+    "address": "Skyring Tce / Cunningham St",
+    "latitude": -27.44979,
+    "longitude": 153.044925
+  },
+  {
+    "id": 92,
+    "name": "92 - THORNTON ST FERRY TERMINAL / MAIN ST",
+    "address": "Thornton St Ferry Terminal / Main St",
+    "latitude": -27.471025,
+    "longitude": 153.034306
+  },
+  {
+    "id": 118,
+    "name": "118 - MELBOURNE ST / MERIVALE ST",
+    "address": "Melbourne St / Merivale St",
+    "latitude": -27.474755,
+    "longitude": 153.016687
+  },
+  {
+    "id": 71,
+    "name": "71 - HASTINGS ST / MACQUARIE ST",
+    "address": "Hastings St / Macquarie St",
+    "latitude": -27.460914,
+    "longitude": 153.04987
+  },
+  {
+    "id": 135,
+    "name": "135 - PARK RD / RAILWAY TCE",
+    "address": "Park Rd / Railway Tce",
+    "latitude": -27.469501,
+    "longitude": 153.004129
+  },
+  {
+    "id": 108,
+    "name": "108 - ROGERS ST / MONTAGUE RD",
+    "address": "Rogers St / Montague Rd",
+    "latitude": -27.485078,
+    "longitude": 153.002382
+  },
+  {
+    "id": 111,
+    "name": "111 - DONKIN ST / MONTAGUE RD",
+    "address": "Donkin St / Montague Rd",
+    "latitude": -27.476474,
+    "longitude": 153.008182,
+    "position": "France"
+  },
+  {
+    "id": 46,
+    "name": "46 - ANN ST / BOUNDARY ST",
+    "address": "Ann St / Boundary St",
+    "latitude": -27.461984,
+    "longitude": 153.031782
+  },
+  {
+    "id": 17,
+    "name": "17 - MARGARET ST / ALBERT ST",
+    "address": "Margaret St / Albert St",
+    "latitude": -27.472598,
+    "longitude": 153.028383
+  },
+  {
+    "id": 107,
+    "name": "107 - DRURY ST / MONTAGUE RD",
+    "address": "Drury St / Montague Rd",
+    "latitude": -27.48872,
+    "longitude": 152.999585
+  },
+  {
+    "id": 3,
+    "name": "3 - CREEK ST / ELIZABETH ST",
+    "address": "Creek St / Elizabeth St",
+    "latitude": -27.467556,
+    "longitude": 153.029202
+  },
+  {
+    "id": 89.0,
+    "name": "89 - HOLMAN ST / MAIN ST",
+    "address": "Holman St / Main St",
+    "latitude": -27.465733,
+    "longitude": 153.034329
+  },
+  {
+    "id": 33,
+    "name": "33 - ROMA ST / HERSCHEL ST",
+    "address": "Roma St / Herschel St",
+    "latitude": -27.466753,
+    "longitude": 153.020012
+  },
+  {
+    "id": 37,
+    "name": "37 - UPPER ROMA ST / EAGLE TCE",
+    "address": "Upper Roma St / Eagle Tce",
+    "latitude": -27.466032,
+    "longitude": 153.01476
+  },
+  {
+    "id": 120,
+    "name": "120 - BOUNDARY ST / VULTURE ST",
+    "address": "Boundary St / Vulture St",
+    "latitude": -27.482562,
+    "longitude": 153.011831
+  },
+  {
+    "id": 83,
+    "name": "83 - SYDNEY ST / BRUNSWICK ST",
+    "address": "Sydney St / Brunswick St",
+    "latitude": -27.468407,
+    "longitude": 153.048273
+  },
+  {
+    "id": 20,
+    "name": "20 - GARDENS POINT RD / SE OF GOODWILL BRIDGE",
+    "address": "Gardens Point Rd / SE of Goodwill Bridge",
+    "latitude": -27.478846,
+    "longitude": 153.028296
+  },
+  {
+    "id": 84,
+    "name": "84 - NEW FARM FERRY TERMINAL / NEW FARM PARK",
+    "address": "New Farm Ferry Terminal / New Farm Park",
+    "latitude": -27.471481,
+    "longitude": 153.051966
+  },
+  {
+    "id": 129,
+    "name": "129 - LOWER RIVER TCE / PARKLANDS",
+    "address": "Lower River Tce / Parklands",
+    "latitude": -27.478032,
+    "longitude": 153.034186
+  },
+  {
+    "id": 126,
+    "name": "126 - JANE ST / BOUNDARY ST",
+    "address": "Jane St / Boundary St",
+    "latitude": -27.479149,
+    "longitude": 153.012132
+  },
+  {
+    "id": 105,
+    "name": "105 - DORNOCH TCE / HARDGRAVE RD",
+    "address": "Dornoch Tce / Hardgrave Rd",
+    "latitude": -27.487155,
+    "longitude": 153.007281
+  },
+  {
+    "id": 102,
+    "name": "102 - BESANT ST / VULTURE ST",
+    "address": "Besant St / Vulture St",
+    "latitude": -27.480885,
+    "longitude": 153.014585
+  },
+  {
+    "id": 7,
+    "name": "7 - MARGARET STREET / EDWARD STREET",
+    "address": "Margaret St / Edward St",
+    "latitude": "not relevant",
+    "longitude": 153.029647
+  },
+  {
+    "id": 94,
+    "name": "94 - GLENELG ST / MERIVALE ST",
+    "address": "Glenelg St / Merivale St",
+    "latitude": -27.478653,
+    "longitude": 153.019123
+  },
+  {
+    "id": 106,
+    "name": "106 - ORLEIGH ST / HOOGLEY ST",
+    "address": "Orleigh St / Hoogley St",
+    "latitude": -27.489807,
+    "longitude": 153.002405,
+    "position": "France"
+  },
+  {
+    "id": 100,
+    "name": "100 - MELBOURNE ST / EDMONDSTONE ST",
+    "address": "Melbourne St /  Edmondstone St",
+    "latitude": -27.47666,
+    "longitude": 153.013287
+  },
+  {
+    "id": 61,
+    "name": "61 - WICKHAM ST / MURRI WAY",
+    "address": "Wickham St / Murri Way",
+    "latitude": -27.451793,
+    "longitude": 153.039562
+  },
+  {
+    "id": 51,
+    "name": "51 - BRUNSWICK ST / ALFRED ST",
+    "address": "Brunswick St / Alfred St",
+    "latitude": -27.45663,
+    "longitude": 153.032779
+  },
+  {
+    "id": 66,
+    "name": "66 - COMMERCIAL RD SKYRING TCE",
+    "address": "Commercial Rd / Skyring Tce",
+    "latitude": -27.45296,
+    "longitude": 153.048107
+  },
+  {
+    "id": 144,
+    "name": "144 - JEPHSON ST / SHERWOOD RD",
+    "address": "Jephson St / Sherwood Rd",
+    "latitude": -27.485075,
+    "longitude": 152.990627
+  },
+  {
+    "id": 88,
+    "name": null,
+    "address": "Sandford St / Austral St",
+    "latitude": -27.492489,
+    "longitude": null
+  },
+  {
+    "id": 146,
+    "name": "146 - BRISBANE ST / GLEN RD",
+    "address": "Brisbane St / Glen Rd",
+    "latitude": -27.487187,
+    "longitude": 152.993052
+  },
+  {
+    "id": 42,
+    "name": "42 - WHARF STREET / ADELAIDE STREET",
+    "address": "Wharf St / Adelaide St",
+    "latitude": -27.464647,
+    "longitude": 153.029361
+  },
+  {
+    "id": 10,
+    "name": "10 - EDWARD STREET / QUEEN STREET",
+    "address": "Edward St / Queen St",
+    "latitude": -27.468206,
+    "longitude": 153.026744
+  },
+  {
+    "id": 19,
+    "name": "19 - GARDENS POINT ROAD / ADJ. BRIDGE",
+    "address": "Gardens Point Rd / Adj. Bridge",
+    "coordinates": {
+      "latitude": -27.479004,
+      "longitude": 153.028853
+    }
+  },
+  {
+    "id": 6,
+    "name": "6 - ALICE STREET / EDWARD STREET",
+    "address": "Alice St / Edward St",
+    "latitude": -27.472291,
+    "longitude": 153.030639
+  },
+  {
+    "id": 142,
+    "name": "142 - SYLVAN RD / CORONATION DR",
+    "address": "Sylvan Rd / Coronation Dr",
+    "latitude": -27.482081,
+    "longitude": 152.995804
+  },
+  {
+    "id": 101,
+    "name": "101 - RUSSELL ST / EDMONDSTONE ST",
+    "address": "Russell St / Edmondstone St",
+    "latitude": -27.478235,
+    "longitude": 153.015173
+  },
+  {
+    "id": 131,
+    "name": "131 - SHAFSTON AVE / THORN ST",
+    "address": "Shafston Ave / Thorn St",
+    "latitude": -27.476792,
+    "longitude": 153.039186
+  },
+  {
+    "id": 99,
+    "name": "99 - CORDELIA ST / PEEL ST",
+    "address": "Cordelia St / Peel St",
+    "latitude": -27.474011,
+    "longitude": 153.014541
+  },
+  {
+    "id": 58,
+    "name": "58 - EAST ST / ANN ST",
+    "address": "East St / Ann St",
+    "latitude": -27.455472,
+    "longitude": 153.037775
+  },
+  {
+    "id": 57,
+    "name": "57 - BRIDGE ST / WICKHAM ST",
+    "address": "Bridge St / Wickham St",
+    "latitude": -27.454746,
+    "longitude": 153.036154
+  },
+  {
+    "id": 32,
+    "name": "32 - TANK ST / GEORGE ST",
+    "address": "Tank St / George St",
+    "coordinates": {
+      "latitude": -27.468678,
+      "longitude": 153.019801
+    }
+  },
+  {
+    "id": 86,
+    "name": "86 - SYDNEY ST / MORAY ST",
+    "address": "Sydney St / Moray St",
+    "latitude": -27.471422,
+    "longitude": 153.04519
+  },
+  {
+    "id": 41,
+    "name": "41 - ANN ST / WHARF ST",
+    "address": "Ann St / Wharf St",
+    "latitude": -27.46383,
+    "longitude": 153.029125
+  },
+  {
+    "id": 81,
+    "name": "81 - GRIFFITH ST / RIVERVIEW CT",
+    "address": "Griffith St / Riverview Ct",
+    "latitude": -27.471886,
+    "longitude": 153.041854
+  },
+  {
+    "id": 104,
+    "name": "104 - HARDGRAVE RD / SKINNER ST",
+    "address": "Hardgrave Rd / Skinner St",
+    "latitude": -27.482082,
+    "longitude": 153.006981
+  },
+  {
+    "id": 34,
+    "name": "34 - MAKERSTON ST / ROMA ST",
+    "address": "Makerston St / Roma St",
+    "latitude": -27.467037,
+    "longitude": 153.018471
+  },
+  {
+    "id": 128,
+    "name": "128 - BOUQUET ST / MONTAGUE RD",
+    "address": "Bouquet St / Montague Rd",
+    "latitude": -27.471712,
+    "longitude": 153.013188
+  },
+  {
+    "id": 13,
+    "name": "13 - ALBERT STREET MALL / ADELAIDE STREET",
+    "address": "Albert St Mall / Adelaide St",
+    "latitude": -27.469183,
+    "longitude": 153.024719
+  },
+  {
+    "id": 36,
+    "name": "36 - ROMA STREET / GARRICK STREET",
+    "address": "Roma St / Garrick St",
+    "latitude": -27.466307,
+    "longitude": 153.017351
+  },
+  {
+    "id": 137,
+    "name": "137 - KILROE ST / DORSEY ST",
+    "address": "Kilroe St / Dorsey St",
+    "latitude": -27.472413,
+    "longitude": 153.001803
+  },
+  {
+    "id": 79,
+    "name": "79 - BALFOUR ST / BRUNSWICK ST",
+    "address": "Balfour St / Brunswick St",
+    "coordinates": {
+      "latitude": -27.463431,
+      "longitude": 153.041031
+    }
+  },
+  {
+    "id": 38,
+    "name": "38 - ANN ST / CREEK ST",
+    "address": "38 - Ann St / Creek St",
+    "latitude": -27.46588,
+    "longitude": 153.026861
+  },
+  {
+    "id": 7,
+    "name": "7 - MARGARET STREET / EDWARD STREET",
+    "address": "Margaret St / Edward St",
+    "latitude": -27.47148,
+    "longitude": "not relevant"
+  },
+  {
+    "id": 14,
+    "name": "14 - ALBERT STREET MALL / ELIZABETH STREET",
+    "address": "Albert St Mall / Elizabeth St",
+    "latitude": -27.47011,
+    "longitude": 153.025627
+  },
+  {
+    "id": 45,
+    "name": "45 - TURBOT ST / BOWEN ST",
+    "address": "Turbot St / Bowen St",
+    "latitude": -27.462665,
+    "longitude": 153.029087,
+    "position": "France"
+  },
+  {
+    "id": 1,
+    "name": "1 - EDWARD ST / QUEEN ST",
+    "address": "Edward St / Queen St",
+    "latitude": -27.46812,
+    "longitude": 153.02682
+  },
+  {
+    "id": 116,
+    "name": "116 - CORDELIA ST / ERNEST ST",
+    "address": "Cordelia St / Ernest St",
+    "latitude": -27.481137,
+    "longitude": 153.019284
+  }
+]
